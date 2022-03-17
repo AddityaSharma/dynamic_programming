@@ -14,6 +14,8 @@ as we are not having 0's so this task is relatively easier.
         else return 0;
     }
 reason for different base case : if at index 0 we have '0' and we reach index 0 with target sum as 0, then we have 2 ways -> and we usually miss out on this.
+    
+-> DP-18 : https://www.youtube.com/watch?v=zoilQD1kYSg&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=19&ab_channel=takeUforward
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
