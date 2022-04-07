@@ -1,6 +1,8 @@
 Question : count number of subsequences
 https://www.codingninjas.com/codestudio/problems/count-the-number-of-subsequences-having-product-not-more-than-p_1214647
 
+// used the concept of co-ordinate shift - important
+
 // recursive code:
 int f(int index, int product, vector<int> &arr, int k){
     if(index == 0) return 0;
